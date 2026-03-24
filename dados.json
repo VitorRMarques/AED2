@@ -1,0 +1,52 @@
+[
+    {
+        "ID": 71,
+        "nome": "vitor",
+        "idade": "23",
+        "email": "marques.vitor10@outlook.com",
+        "senha": "tor2002vi!",
+        "Nivel de conta": "* Conta Premium *",
+        "creditos": "500",
+        "status": "a"
+    },
+    {
+        "ID": 21,
+        "nome": "luisa",
+        "idade": "24",
+        "email": "lusa@gmail.com",
+        "senha": "luisinha123",
+        "Nivel de conta": "Conta Standard",
+        "creditos": "0",
+        "status": "d"
+    },
+    {
+        "ID": 50,
+        "nome": "regina",
+        "idade": "18",
+        "email": "regina@gmail.com",
+        "senha": "renininha321",
+        "Nivel de conta": "* Conta Premium *",
+        "creditos": "0",
+        "status": "a"
+    },
+    {
+        "ID": 11,
+        "nome": "guilherme",
+        "idade": "25",
+        "email": "guilherme@email.com",
+        "senha": "gui4321",
+        "Nivel de conta": "* Conta Premium *",
+        "creditos": "0",
+        "status": "d"
+    },
+    {
+        "ID": 35,
+        "nome": "Helena",
+        "idade": "24",
+        "email": "helena@email.com",
+        "senha": "helena123",
+        "Nivel de conta": "Conta Standard",
+        "creditos": "0",
+        "status": "a"
+    }
+]
