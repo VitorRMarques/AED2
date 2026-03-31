@@ -6,7 +6,6 @@ def carregar_dados():
     with open("dados.json", "r", "utf-8") as arq:
         return json.load(arq)
     
-
 def verificar_conta(id):
    dados[id] = "ID"
    if dados["Nivel de conta"] == "Premium" and dados["status"] == "a" :

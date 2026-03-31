@@ -24,4 +24,4 @@ def contar_ocorrencias(lista, alvo):
     return contador
 
 frutas = ['maca', 'maca', 'banana']
-print(contar_ocorrencias(frutas, 'banana'))
+#print(contar_ocorrencias(frutas, 'banana'))
